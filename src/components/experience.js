@@ -40,7 +40,7 @@ const experience = [
     title: "Founder · Sandreassen Media",
     jobtitle: "Freelance Photographer & Media Producer",
     text: "Founded and managed my own media company, delivering photography, video production, and digital content for private clients and businesses. Working as a freelancer has taught me to work independently, manage projects from start to finish, and take responsibility for both technical execution and client satisfaction.",
-    path: "https://ruc.dk/digital",
+    path: "https://photosite-zeta.vercel.app/",
     hyperlink: [],
     tech: ["Final Cut Pro X", "Lightroom", "Photoshop"],
   },
