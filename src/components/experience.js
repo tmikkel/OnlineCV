@@ -1,6 +1,6 @@
 const experience = [
   {
-    timeline: "Present",
+    timeline: "2023-2026",
     title: "Master’s Thesis · Technical University of Denmark (DTU)",
     jobtitle: "Master’s Student",
     text: "Developing a pipeline for memory-efficient processing and visualization of massive 3D imaging datasets. Using OME-ZARR for hierarchical storage, ITK for 3D visualization with ROI selection, and Dask (Python) for chunk-based computation.",
@@ -15,7 +15,7 @@ const experience = [
     text: "Provided on-site and remote support to staff and students. Installed and configured computers, printers, and networks. Troubleshot Microsoft Office 365, Adobe Creative Suite, email systems, and internal applications while documenting solutions for future efficiency.",
     path: "https://ruc.dk/digital",
     hyperlink: [],
-    tech: ["Office 365", "Adobe Suite", "Topdesk"],
+    tech: ["Office 365", "Topdesk"],
   },
   {
     timeline: "2023 - 2024",
@@ -40,9 +40,9 @@ const experience = [
     title: "Founder · Sandreassen Media",
     jobtitle: "Freelance Photographer & Media Producer",
     text: "Founded and managed my own media company, delivering photography, video production, and digital content for private clients and businesses. Working as a freelancer has taught me to work independently, manage projects from start to finish, and take responsibility for both technical execution and client satisfaction.",
-    path: "https://photosite-zeta.vercel.app/",
+    //path: "https://photosite-zeta.vercel.app/",
     hyperlink: [],
-    tech: ["Final Cut Pro X", "Lightroom", "Photoshop"],
+    tech: ["Final Cut Pro X", "Adobe Creative Suite"],
   },
 ];
 
