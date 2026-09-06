@@ -1,12 +1,20 @@
 const experience = [
   {
     timeline: "2023-2026",
-    title: "Master’s Thesis · Technical University of Denmark (DTU)",
+    title:
+      "M.Sc. in Computer Science & Engineering · Technical University of Denmark (DTU)",
     jobtitle: "Master’s Student",
-    text: "Developing a pipeline for memory-efficient processing and visualization of massive 3D imaging datasets. Using OME-ZARR for hierarchical storage, ITK for 3D visualization with ROI selection, and Dask (Python) for chunk-based computation.",
+    text: "My Master's degree at DTU provided a deep theoretical and practical foundation in high-performance computing, software development, scalable system architectures, and cybersecurity. ",
     path: "https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering",
     hyperlink: [],
-    tech: ["OME-ZARR", "Dask (Python)"],
+    tech: [
+      ".NET",
+      "C#",
+      "Python",
+      "Fullstack",
+      "Software Development",
+      "TypeScript",
+    ],
   },
   {
     timeline: "2019 - 2024",

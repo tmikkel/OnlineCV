@@ -5,6 +5,12 @@ import Image from "next/image";
 
 const projects = [
   {
+    path: "https://github.com/tmikkel/HDF5toOME-Zarr",
+    title: "Master's Thesis (DTU) | 2025 – 2026",
+    text: "Efficient and Memory­Aware Processing of Massive 3D Imaging Data.",
+    picture: Git,
+  },
+  {
     path: "https://github.com/tmikkel/external_media_organiser",
     title: "External drive media organiser",
     text: "Python script I created to automatically organise Raw photo and video files on external drive by year/month in folders.",
@@ -13,13 +19,13 @@ const projects = [
   {
     path: "https://fertilia-nine.vercel.app/",
     title: "Website for Fertility Clinic Fertilia",
-    text: "The website is built in Next.js with JavaScript and next-intl for localization. The site is still under construction.",
+    text: "Designed and built a multi-language web application for a fertility clinic using Next.js, JavaScript, and next-intl for localization. Focused on responsive design, performance, and user experience.",
     picture: Logo,
   },
   {
     path: "https://photosite-zeta.vercel.app/",
     title: "Personal Photography Website",
-    text: "The website is built in Next.js with JavaScript and Motion library for animations. The site is still under construction.",
+    text: "Personal portfolio and photography platform built with Next.js, Tailwind CSS, and Framer Motion / Motion library for smooth animations.",
     picture: Sand,
   },
 ];

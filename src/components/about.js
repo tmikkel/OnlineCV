@@ -14,7 +14,7 @@ export const About = () => {
       </div>
       <div>
         <p className="mb-4">
-          I am a Master’s student in Computer Science & Engineering at the{" "}
+          I hold an M.Sc. in Computer Science & Engineering from the{" "}
           <a
             className="font-medium text-slate-200 hover:text-[var(--accent)] focus-visible:text-[var(--accent)]"
             href="https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering"
@@ -24,32 +24,29 @@ export const About = () => {
           >
             Technical University of Denmark (DTU)
           </a>
-          , currently writing my thesis on efficient and memory-aware processing
-          of massive 3D imaging data. My project focuses on building a data
-          processing pipeline for handling terabyte-scale brain imaging
-          datasets, combining tools such as OME-ZARR, ITK, and Dask (Python) to
-          enable memory-efficient storage, processing, and visualization.
+          with a strong foundation in software engineering, data systems, and
+          cybersecurity.
         </p>
         <p className="mb-4">
-          Alongside my studies, I have gained hands-on experience in IT support
-          at Roskilde University, where I solved hardware, software, and
-          networking challenges for staff and students.
+          In my Master's thesis, I developed a high-performance,
+          memory-efficient pipeline in Python (Dask, OME-Zarr, GUI) for
+          processing and visualizing terabyte-scale 3D brain imaging data on HPC
+          systems. By designing a block-wise parallel processing architecture, I
+          ensured predictable, bounded RAM usage regardless of total dataset
+          size.
         </p>
         <p className="mb-4">
-          I am also passionate about modern web development and have built a few
-          projects in my free time using React, Next.js, and Node.js, including
-          a web application for a fertility clinic. I enjoy designing
-          user-friendly digital solutions, exploring new technologies, and
-          applying my skills to projects that create value.
+          Alongside my academic focus on C#, Python, Next.js, and network
+          security, I have hands-on experience in IT support from Roskilde
+          University and run my own media business, Sandreassen Media. This
+          combination gives me both the technical depth to build complex
+          software and the strong communication skills needed for client-facing
+          and consultancy roles.
         </p>
         <p className="mb-4">
-          I am now seeking opportunities and challenges where I can grow as a
-          developer, contribute to innovative projects, and potentially build a
-          long-term career in tech.
-        </p>
-        <p>
-          In my spare time, I’m usually doing photography/videography, hanging
-          out with friends and family, or in the fitness center.
+          I am currently seeking junior opportunities within Software
+          Engineering, Fullstack Development, Data Engineering, System
+          Integration, or IT Consulting.
         </p>
       </div>
     </section>

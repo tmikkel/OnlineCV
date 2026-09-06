@@ -44,11 +44,12 @@ export const Header = () => {
               <Link href="/">Tobias Schleiss-Andreassen</Link>
             </h1>
             <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-              M.Sc. in Computer Science & Engineering
+              M.Sc. in Computer Science & Engineering (DTU)
             </h2>
             <p className="mt-4 max-w-xs leading-normal">
-              Passionate Computer Science student. Eager to take on new
-              challenges and grow as developer.
+              Software Engineer & IT Consultant specializing in Fullstack
+              Development, High-Performance Data Processing & Cybersecurity.
+              Building scalable, secure, and data-driven digital solutions.
             </p>
             <nav
               className="nav pt-2 hidden lg:block"
@@ -112,7 +113,7 @@ export const Header = () => {
             <li className="mr-5 shrink-0 text-xs">
               <a
                 className="block hover:text-slate-200"
-                href="https://dk.linkedin.com/in/tobias-schleiss-andreassen-87700b13a"
+                href="https://www.linkedin.com/in/tobias-schleiss"
                 target="_blank"
                 rel="noreferrer noopener"
                 aria-label="LinkedIn (Opens in new tab)"
@@ -133,7 +134,7 @@ export const Header = () => {
             <li className="mr-5 shrink-0 text-xs">
               <a
                 className="block hover:text-slate-200"
-                href="https://www.instagram.com/tobias_schleiss/"
+                href="https://www.instagram.com/tobias_schleiss"
                 target="_blank"
                 rel="noreferrer noopener"
                 aria-label="Instagram (Opens in new tab)"
