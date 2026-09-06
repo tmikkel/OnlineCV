@@ -110,7 +110,7 @@ export const Experience = () => {
                       </a>
                     </div>
                     <div>
-                      <div className="text-slate-500" aria-label="true">
+                      <div className="text-slate-500" aria-label="Job title">
                         {items.jobtitle}
                       </div>
                     </div>
