@@ -28,7 +28,7 @@ export const About = () => {
           cybersecurity.
         </p>
         <p className="mb-4">
-          In my Master's thesis, I developed a high-performance,
+          In my Master&apos;s thesis, I developed a high-performance,
           memory-efficient pipeline in Python (Dask, OME-Zarr, GUI) for
           processing and visualizing terabyte-scale 3D brain imaging data on HPC
           systems. By designing a block-wise parallel processing architecture, I
